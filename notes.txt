@@ -1,1 +1,2 @@
-I'm learning devops
+I have learned Git and Github basic
+Im learning devops
